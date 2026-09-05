@@ -58,7 +58,7 @@ Django로 만든 인스타그램 형식의 웹사이트입니다.
 
 ## 📊 GitHub 활동
 
-[![범태현의 GitHub 활동 통계](https://github-readme-stats.vercel.app/api?username=MadPumpkin3&show_icons=true&theme=transparent&hide_border=true&hide_rank=true&title_color=F97316&icon_color=F97316)](https://github.com/MadPumpkin3?tab=repositories)
+[![범태현의 GitHub 활동 통계](./profile/stats.svg)](https://github.com/MadPumpkin3?tab=repositories)
 
 ## 🐍 차곡차곡 쌓아가는 기록
 
